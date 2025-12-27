@@ -39,12 +39,13 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: <img width="976" height="505" alt="Screenshot 2025-11-25 114511" src="https://github.com/user-attachments/assets/856fce50-d411-4a82-89e2-eb04777253a1" />![EX3 2](https://github.com/user-attachments/assets/60cb4542-3ba0-4391-a99a-19e48a2f5313)
+Direct connection: CIRCUIT DIAGRAM:  />![EX3 2](https://github.com/user-attachments/assets/60cb4542-3ba0-4391-a99a-19e48a2f5313)
 
 
 Tabulation:1
 	
 Cross connection: CIRCUIT DIAGRAM:![EX3](https://github.com/user-attachments/assets/c026d855-bda1-4dc8-992f-b4da5be8daee)
+<img width="941" height="511" alt="Screenshot 2025-11-25 115443" src="https://github.com/user-attachments/assets/b424fe08-e067-490c-bb28-3c7228985520" />
 
 <img width="976" height="505" alt="beee lamp2" src="https://github.com/user-attachments/assets/da1c1e23-b7e2-4c83-b656-fd9beec9b2ff" />
 
